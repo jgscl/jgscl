@@ -5,11 +5,12 @@
 - Bachelor in Computer Engineering in the [USAL](https://usal.es)
 
 ## Programming languages and technologies 💻
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=flat)
-![Java Badge](https://img.shields.io/badge/Java-121011?logo=Java&logoColor=red&color=white)
-![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
+![Java Badge](https://img.shields.io/badge/Java-121011?logo=Java&logoColor=red&style=for-the-badge)
+![Flask Badge](https://img.shields.io/badge/Flask-000?logo=proxy-image&logoColor=fff&style=for-the-badge)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 
 <!--
 **jgscl/jgscl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
