@@ -1,6 +1,5 @@
 # About me 🧑
 
-Hey there! I'm Juan, a 23 year-old boy from Salamanca, Spain
 
 ## Education 📖
 
@@ -15,11 +14,6 @@ Hey there! I'm Juan, a 23 year-old boy from Salamanca, Spain
 ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)
 ![.NET Badge](https://img.shields.io/badge/.NET-7F2B7B?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
-
-## Stats
-
-[My stats](https://github-readme-stats.vercel.app/api?username=jgscl&show_icons=true&theme=radical)
-[Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgscl)
 
 <!--
 **jgscl/jgscl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
