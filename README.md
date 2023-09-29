@@ -11,6 +11,7 @@
 ![Java Badge](https://img.shields.io/badge/Java-121011?logo=Java&logoColor=red&style=for-the-badge)
 ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=proxy-image&logoColor=fff&style=for-the-badge)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+![Scrapy Badge](https://img.shields.io/badge/Scrapy-060?logo="https://github.com/jgscl/jgscl/blob/0b98ffc1ac7469aa851f8ccb0538f459795fb82d/proxy-image.png"&logoColor=fff&style=for-the-badge)
 
 <!--
 **jgscl/jgscl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
