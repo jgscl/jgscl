@@ -1,4 +1,15 @@
-### Hi there 👋
+# About me 🧑
+
+## Education 📖
+
+- Bachelor in Computer Engineering in the [USAL](https://usal.es)
+
+## Programming languages and technologies 💻
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-121011?logo=Java&logoColor=red&color=white)
+![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
 
 <!--
 **jgscl/jgscl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
