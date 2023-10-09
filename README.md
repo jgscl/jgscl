@@ -3,7 +3,7 @@
 
 ## Education 📖
 
-- Bachelor in Computer Engineering in the [USAL](https://usal.es)
+- Bachelor in Computer Engineering graduate in the [USAL](https://usal.es)
 
 ## Programming languages and technologies 💻
 ![Python Badge](https://img.shields.io/badge/Python-FDEE21?logo=python&logoColor=fff&style=for-the-badge)
